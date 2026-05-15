@@ -39,5 +39,5 @@
 
 <div>
    <h2>Social Media<h2>
-  <a target="_blank" href="https://www.linkedin.com/in/julia-sales-developer" target="_blank"><img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"></a>
+  <a target="_blank" href="https://www.linkedin.com/in/julia-sales-developer" target="_blank"><img align="center" alt="React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"></a>
 </div>
