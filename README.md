@@ -21,20 +21,24 @@
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
    <h2>Backend</h2>
-   <img alt="PostgreSQL" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" /> 
-   <img alt="Node" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-   <img alt="Express" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
-   <img alt="Prisma" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
-   <img alt="Docker" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" /> 
-   <img alt="Dbeaver" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" />
+   <img alt="PostgreSQL" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" /> 
+   <img alt="Node" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+   <img alt="Express" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
+   <img alt="Prisma" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
+   <img alt="Docker" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" /> 
+   <img alt="Dbeaver" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" />
 </div>
 
-<!-- <br> -->
+<br> 
 
-<!-- Badges com Markdown (Shields.io) -->
-<!-- ![n8n](https://img.shields.io/badge/n8n-EC5766?style=for-the-badge&logo=n8n&logoColor=white) -->
-<!-- ![API](https://img.shields.io/badge/API-005571?style=for-the-badge&logo=fastapi&logoColor=white) -->
-<!-- ![AI](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white) -->
+<!-- Ícones com HTML (icons8) -->
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+<h2>IA & Automations</h2>
+<img alt="n8n" height="60" src="https://blog.patrickbrandao.com/wp-content/uploads/2025/11/n8n-mode-cloud-512.png" />
+<img alt="ai" height="60" src="https://img.icons8.com/?size=100&id=NWoCfYWqHRGY&format=png&color=000000" />
+<img alt="api" height="60" src="https://img.icons8.com/?size=100&id=oh2QwIbnJOWR&format=png&color=000000" />
+
+</div>
  
 <!-- <br> -->
 
